@@ -1,1 +1,2 @@
 This is typing in branch master.
+This is typing in branch merge_test.
