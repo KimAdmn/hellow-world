@@ -3,3 +3,4 @@ Add a line to test pull.
 Add a line to test pull origin.
 Test the push origin.
 This is the branch feature2.
+Change the remote name to github.
